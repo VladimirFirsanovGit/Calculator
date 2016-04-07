@@ -7,3 +7,12 @@ c:\users\владимир\documents\visual studio 2015\Projects\Calculator\Calcu
 c:\users\владимир\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
 c:\users\владимир\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\владимир\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Git\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Git\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Git\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Git\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
